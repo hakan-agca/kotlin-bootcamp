@@ -5,9 +5,8 @@ plugins {
 
 android {
     namespace = "com.example.udemybootcamp"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 36
+
 
     defaultConfig {
         applicationId = "com.example.udemybootcamp"

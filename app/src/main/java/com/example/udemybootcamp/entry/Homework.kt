@@ -1,7 +1,7 @@
 package com.example.udemybootcamp.entry
 
 
-fun main() {
+fun mains() {
 
     val district = "Kaynaşlı"
     println("ilçe adı : $district")

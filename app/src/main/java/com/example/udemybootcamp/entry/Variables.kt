@@ -3,7 +3,6 @@ package com.example.udemybootcamp.entry
 
 fun main() {
     // println("Merhaba dünya")
-    // sadece println varken neden hata veri abine sor
 
     var studentName = "Ahmet"
     var studentAge = 23
