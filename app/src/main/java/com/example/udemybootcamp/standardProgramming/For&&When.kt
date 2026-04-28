@@ -1,4 +1,4 @@
-package com.example.udemybootcamp.loops
+package com.example.udemybootcamp.standardProgramming
 
 
 fun main() {

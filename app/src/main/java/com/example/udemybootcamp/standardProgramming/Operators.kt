@@ -1,4 +1,4 @@
-package com.example.udemybootcamp.operators
+package com.example.udemybootcamp.standardProgramming
 
 fun main() {
 
